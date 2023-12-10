@@ -3,12 +3,10 @@
 <br>
 
 <p align="right">
-  <img align="right" width="400" src="https://cdn.pixabay.com/animation/2022/10/25/12/11/12-11-02-585_512.gif">
+  <img align="right" width="400" src="https://cdn.pixabay.com/animation/2023/07/01/12/25/12-25-50-208_512.gif">
 </p>
 
 - 🌱 Currently learning JS, CSS, Fast API, Bootstrap, Docker
-
-- 🚀 All of my projects are available at Linked In
 
 - 💁‍♂️ If you want to collaborate, please contact me
 
