@@ -1,4 +1,3 @@
-Apos, [10/12/2023 19:54]
 <h1 align="center">Hello, I'm catsmile</h1>
 <h3 align="center">Python/JS Programmer | Node Blockchain | Web Developer</h3>
 <br>
@@ -99,6 +98,3 @@ Apos, [10/12/2023 19:54]
     </a>
   </p>
 </details>
-
-Apos, [10/12/2023 19:54]
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
