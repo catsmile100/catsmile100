@@ -19,7 +19,7 @@
 - 📫 How to reach me
   <a href="https://t.me/deleletaccount">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white">
-- 📫 Discord : rehan265derpdex
+- 📫 Discord : th3mi
   </a>
 
 <br>
