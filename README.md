@@ -3,7 +3,7 @@
 <br>
 
 <p align="right">
-  <img align="right" width="400" src="https://cdn.pixabay.com/animation/2023/03/15/06/38/06-38-21-949_512.gif">
+  <img align="right" width="400" src="https://cdn.pixabay.com/animation/2022/10/25/12/11/12-11-02-585_512.gif">
 </p>
 
 - 🌱 Currently learning JS, CSS, Fast API, Bootstrap, Docker
