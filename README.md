@@ -3,7 +3,7 @@
 <br>
 
 <p align="right">
-  <img align="right" width="400" src="https://www.icegif.com/wp-content/uploads/cool-wallpapers-icegif-1.gif">
+  <img align="right" width="400" src="https://i.pinimg.com/originals/a1/77/df/a177dfc84703c31afa0d501ccf43fe4f.gif">
 </p>
 
 - 🌱 Currently learning JS, CSS, Fast API, Bootstrap, Docker
