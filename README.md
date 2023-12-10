@@ -14,7 +14,7 @@
 
 - 💎 5+ years of coding experience
 
-- 📫 How to reach me
+- 📫 How to reach me : th3mi
   <a href="https://discord.com/users/th3mi">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white">
   </a>
