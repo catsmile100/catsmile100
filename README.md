@@ -15,9 +15,8 @@
 - 💎 5+ years of coding experience
 
 - 📫 How to reach me
-  <a href="https://t.me/deleletaccount">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white">
-- 📫 Discord : th3mi
+  <a href="https://discord.com/users/th3mi">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white">
   </a>
 
 <br>
